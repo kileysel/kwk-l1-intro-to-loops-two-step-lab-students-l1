@@ -10,7 +10,7 @@
 def kwk_camp
   days = 2 
   days_left = 7
-#MAKE A WHILE loop
+#MAKE A UNTIL loop
   until days > 9
   puts "Keep coming to camp!"
   #days = days +1 
