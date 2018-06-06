@@ -11,7 +11,7 @@ def kwk_camp
   days = 2 
   days_left = 7
 #MAKE A WHILE loop
-  until days_left = 0 
+  until days_left == 0 
   puts "Keep coming to camp!"
   #days = days +1 
   puts "you have #{days_left} days left"
