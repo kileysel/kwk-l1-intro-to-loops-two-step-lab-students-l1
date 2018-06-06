@@ -11,11 +11,11 @@ def kwk_camp
   #days = 2 
   days_left = 7
 #MAKE A WHILE loop
-  until days_left == 0 
+  until days > 9
   puts "Keep coming to camp!"
-  #days = days +1 
+  days = days +1 
   puts "you have #{days_left} days left"
- # days += 1
+  days += 1
   days_left -= 1 
   end
   puts "camp is over :("
