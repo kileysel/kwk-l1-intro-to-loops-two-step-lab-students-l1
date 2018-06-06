@@ -8,7 +8,7 @@
 # end
 #DEFINE KODE WITH KLOSSY METHOD 
 def kwk_camp
-  #days = 2 
+  days = 2 
   days_left = 7
 #MAKE A WHILE loop
   until days > 9
